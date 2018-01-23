@@ -1,7 +1,8 @@
 # Infectious-Diseases
 ## Disease Forecasting & Surveillance
 * PLOS channels<br> https://channels.plos.org/dfs
-## Official Institute
+## Official Institute & Projects
+* Mathematical Modeling of Infectious Diseases<br>https://research.pasteur.fr/en/team/mathematical-modelling-of-infectious-diseases/ 
 * National Institute of Allergy and Infectious Diseases <br> https://www.niaid.nih.gov/
 ## Ecology & Evolution of Infectious Diseases(EEID)
 * NIH EEID<br>https://www.fic.nih.gov/programs/Pages/ecology-infectious-diseases.aspx
