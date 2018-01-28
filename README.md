@@ -9,6 +9,7 @@
 * Adaptation Clearinghouse<br> http://www.adaptationclearinghouse.org/resources/ecology-and-evolution-of-infectious-diseases-initiative.html
 ## Tuberculosis
 * A neglected pandemic<br>http://www.nejm.org/doi/full/10.1056/NEJMe1714609 
+## Malaria<br> https://www.imperial.ac.uk/network-of-excellence-in-malaria
 ##Tools & Language Tools & All Kinds of Analysis about Infectious Diseases
 * REcon<br>http://www.repidemicsconsortium.org/
 ## Data
