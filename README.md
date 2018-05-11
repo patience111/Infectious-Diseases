@@ -17,7 +17,8 @@ https://www.research.vet.cam.ac.uk/research-staff-directory/principal-investigat
 * REcon<br>http://www.repidemicsconsortium.org/
 ## Data
 * WHO Emergencies preparedness, response<br>http://www.who.int/csr/don/archive/year/en/
-## Models
+## Models & summer course & workshop
 * SIR_MAA<br>https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
+* UW <br> https://www.biostat.washington.edu/suminst
 ## Circles
 * Sen Pei<br>http://www.columbia.edu/~sp3449/research.html
