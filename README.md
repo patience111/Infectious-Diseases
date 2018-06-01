@@ -1,4 +1,6 @@
 # Infectious-Diseases
+## Issues collections
+* NEMJ Epidemics<br>https://www.nejm.org/epidemics?emp=marcom&utm_source=nejmlist&utm_medium=email&utm_campaign=epidemics18
 ## Disease Forecasting & Surveillance
 * PLOS channels<br> https://channels.plos.org/dfs
 ## Official Institute & Projects
@@ -6,7 +8,7 @@
 * National Institute of Allergy and Infectious Diseases <br> https://www.niaid.nih.gov/
 * Department of Veterinary Medicine<br>https://www.research.vet.cam.ac.uk/<br>
 https://www.research.vet.cam.ac.uk/research-staff-directory/principal-investigators/disease-dynamics/james-wood
-## Ecology & Evolution of Infectious Diseases(EEID)
+## Eolution & Epidemiology & Ecology of Infectious Diseases(EEEID)
 * NIH EEID<br>https://www.fic.nih.gov/programs/Pages/ecology-infectious-diseases.aspx
 * Adaptation Clearinghouse<br> http://www.adaptationclearinghouse.org/resources/ecology-and-evolution-of-infectious-diseases-initiative.html
 ## Tuberculosis
