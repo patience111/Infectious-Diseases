@@ -25,3 +25,5 @@ https://www.research.vet.cam.ac.uk/research-staff-directory/principal-investigat
 * APCCMI <br> https://www.apccmi-iicc2018.hk/index.html
 ## Circles
 * Sen Pei<br>http://www.columbia.edu/~sp3449/research.html
+## Create publication quality figures
+* slide by Guangchuang Yu<br>http://guangchuangyu.github.io/presentation/2014-ggplot2/#1
