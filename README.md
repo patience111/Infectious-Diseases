@@ -27,3 +27,4 @@ https://www.research.vet.cam.ac.uk/research-staff-directory/principal-investigat
 * Sen Pei<br>http://www.columbia.edu/~sp3449/research.html
 ## Create publication quality figures
 * slide by Guangchuang Yu<br>http://guangchuangyu.github.io/presentation/2014-ggplot2/#1
+* Articles - ggpubr: Publication Ready Plots<br>http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/
