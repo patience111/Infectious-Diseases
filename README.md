@@ -28,3 +28,4 @@ https://www.research.vet.cam.ac.uk/research-staff-directory/principal-investigat
 ## Create publication quality figures
 * slide by Guangchuang Yu<br>http://guangchuangyu.github.io/presentation/2014-ggplot2/#1
 * Articles - ggpubr: Publication Ready Plots<br>http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/
+* Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2<br>https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html
