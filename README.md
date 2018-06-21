@@ -1,6 +1,8 @@
 # Infectious-Diseases
 ## Issues collections
 * NEMJ Epidemics<br>https://www.nejm.org/epidemics?emp=marcom&utm_source=nejmlist&utm_medium=email&utm_campaign=epidemics18
+* THE LANCET Influenza<br>https://www.thelancet.com/clinical/diseases/influenza
+* LANCET Pandemic Influenza: 100 years <br> Pandemic Influenza: 100 years
 ## Disease Forecasting & Surveillance
 * PLOS channels<br> https://channels.plos.org/dfs
 ## Official Institute & Projects
