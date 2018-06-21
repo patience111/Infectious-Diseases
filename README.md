@@ -3,6 +3,7 @@
 * NEMJ Epidemics<br>https://www.nejm.org/epidemics?emp=marcom&utm_source=nejmlist&utm_medium=email&utm_campaign=epidemics18
 * THE LANCET Influenza<br>https://www.thelancet.com/clinical/diseases/influenza
 * LANCET Pandemic Influenza: 100 years <br> Pandemic Influenza: 100 years
+* Highly cited influenza articals<br>http://info.thelancet.com/pandemic-flu-100-0-0?submissionGuid=5821364f-1ddb-4122-bc06-bb4803b18a23
 ## Disease Forecasting & Surveillance
 * PLOS channels<br> https://channels.plos.org/dfs
 ## Official Institute & Projects
